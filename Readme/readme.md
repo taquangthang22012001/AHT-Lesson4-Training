@@ -1,0 +1,1 @@
+- Một class có thể vừa extends một class cha vừa implements interface cùng một lúc
