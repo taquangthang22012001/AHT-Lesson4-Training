@@ -20,7 +20,7 @@ interface Workable {
 
 class Manager extends Employee implements Workable {
     public function calculateBonus() {
-        return $this->salary * 0.2; // 20% bonus
+        return $this->salary * 0.2; // 20% 
     }
 
     public function work() {
@@ -50,7 +50,7 @@ class Designer extends Employee implements Workable {
     }
 }
 
-// Test the implementation
+// Test
 $manager = new Manager("Alice", 5000);
 $developer = new Developer("Bob", 4000);
 $designer = new Designer("Charlie", 3500);

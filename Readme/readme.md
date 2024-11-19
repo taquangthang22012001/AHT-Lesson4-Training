@@ -1,2 +1,3 @@
 - Một class có thể vừa extends một class cha vừa implements interface cùng một lúc
 - Return có thể trả về một chuỗi thay vì dùng echo trong một hàm
+- Bắt buộc phải triển khai hết phương thức của lớp interface mà class đó implements
